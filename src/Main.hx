@@ -58,5 +58,14 @@ class Main
 				trace(mathProblems);
 			}
 		}
+
+		function mathProblems2()
+		{
+			for (math in i...num + secondNum)
+			{
+				Sys.output('write');
+				trace(mathProblems2);
+			}
+		}
 	}
 }
